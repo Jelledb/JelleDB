@@ -6,4 +6,4 @@
 
 
 
-## Made possible by: Jelledb & BuzzardOne
+## Made possible by: Jelledb, KoenLemmen &BuzzardOne
