@@ -1,5 +1,5 @@
 if ('a' == 'b') {
   console.log('beep');
-else {
+} else {
   console.log('boop');
 }
